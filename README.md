@@ -4,12 +4,12 @@ A modern and secure Password Strength Analyzer built using Python and Tkinter, w
 # Features
 1. Password Strength Analysis
 2. Analyzes passwords based on:
-  Length
-  Character variety (uppercase, lowercase, digits, special chars)
-  Repeated or sequential patterns
-  Presence in common password lists
-  Dictionary word checks
-  Keyboard patterns (e.g., qwerty, 12345)
+  - Length
+  - Character variety (uppercase, lowercase, digits, special chars)
+  - Repeated or sequential patterns
+  - Presence in common password lists
+  - Dictionary word checks
+  - Keyboard patterns (e.g., qwerty, 12345)
 3. Secure Hashing with bcrypt
 Automatically hashes passwords using the industry-standard bcrypt library.
 4. Export Reports
@@ -22,9 +22,9 @@ Built with Tkinter for an intuitive desktop experience.
 ## Requirements
 1. Python 3.x
 2. Libraries:
-    bcrypt
-    tkinter (usually comes with Python)
-    Install Dependencies
+    - bcrypt
+    - tkinter (usually comes with Python)
+    - Install Dependencies
 ```
 pip install bcrypt
 ```
