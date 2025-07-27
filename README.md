@@ -1,25 +1,25 @@
-🔐 Password Strength Checker GUI
+## Password Strength Checker GUI
 A modern and secure Password Strength Analyzer built using Python and Tkinter, with features like password hashing (bcrypt), strength scoring, and exporting results to a .txt file.
 
-🧠 Features
-🔍 Password Strength Analysis
-Analyzes passwords based on:
-Length
-Character variety (uppercase, lowercase, digits, special chars)
-Repeated or sequential patterns
-Presence in common password lists
-Dictionary word checks
-Keyboard patterns (e.g., qwerty, 12345)
-🛡️ Secure Hashing with bcrypt
+# Features
+1. Password Strength Analysis
+2. Analyzes passwords based on:
+  Length
+  Character variety (uppercase, lowercase, digits, special chars)
+  Repeated or sequential patterns
+  Presence in common password lists
+  Dictionary word checks
+  Keyboard patterns (e.g., qwerty, 12345)
+3. Secure Hashing with bcrypt
 Automatically hashes passwords using the industry-standard bcrypt library.
-📤 Export Reports
+4. Export Reports
 Save detailed password analysis reports to .txt files.
-👁️ Password Visibility Toggle
+5. Password Visibility Toggle
 Option to show/hide the password input field.
-🖥️ Graphical User Interface (GUI)
+6. Graphical User Interface (GUI)
 Built with Tkinter for an intuitive desktop experience.
 
-⚙️ Requirements
+## Requirements
 Python 3.x
 Libraries:
 bcrypt
