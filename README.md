@@ -20,11 +20,11 @@ Option to show/hide the password input field.
 Built with Tkinter for an intuitive desktop experience.
 
 ## Requirements
-Python 3.x
-Libraries:
-bcrypt
-tkinter (usually comes with Python)
-Install Dependencies
+1. Python 3.x
+2. Libraries:
+    bcrypt
+    tkinter (usually comes with Python)
+    Install Dependencies
 ```
 pip install bcrypt
 ```
